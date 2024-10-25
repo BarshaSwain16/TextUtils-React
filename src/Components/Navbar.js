@@ -11,6 +11,7 @@ export default function Navbar(props) {
         <a className="navbar-brand" href="#">
           {props.title}
         </a>
+        
         <button
           className="navbar-toggler"
           type="button"
